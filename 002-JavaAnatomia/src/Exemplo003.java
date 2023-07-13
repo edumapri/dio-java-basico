@@ -12,7 +12,7 @@ public class Exemplo003 {
     }
 
     public static String nomeCompleto(String primeiroNome, String segundoNome) {
-        return "Resultado do método " + primeiroNome.concat(" ").concat(segundoNome);
+        return "Resultado do método >> " + primeiroNome.concat(" ").concat(segundoNome);
     }
 
 }
