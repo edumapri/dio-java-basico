@@ -6,7 +6,7 @@ public class TiposVariaveis {
         byte idade = 123;
         short ano = 2023;
         int cep = 05366150;
-        long cpf = 29853584855;
+        long cpf = 298535848;
         float valorPi = 3.14F;
         double salario = 1275.33;
 
