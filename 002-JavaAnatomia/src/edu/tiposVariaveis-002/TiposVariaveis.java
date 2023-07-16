@@ -1,5 +1,3 @@
-package edu.tiposVariaveis-002;
-
 public class TiposVariaveis {
     public static void main(String[] args) {
 
