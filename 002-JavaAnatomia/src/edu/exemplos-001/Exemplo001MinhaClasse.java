@@ -1,5 +1,3 @@
-package edu.exemplos;
-
 public class Exemplo001MinhaClasse {
     public static void main(String[] args) {
 

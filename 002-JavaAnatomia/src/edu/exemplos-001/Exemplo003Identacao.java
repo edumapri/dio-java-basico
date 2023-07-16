@@ -1,5 +1,3 @@
-package edu.exemplos;
-
 public class Exemplo003Identacao {
 
     public static void main(String[] args) {
