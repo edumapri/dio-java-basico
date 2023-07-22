@@ -22,5 +22,6 @@ public class Exemplo001 {
 
         concatenacao = "1" + 1 + 1 + 1;
         System.out.println(concatenacao);
+
     }
 }
