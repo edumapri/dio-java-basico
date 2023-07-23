@@ -5,8 +5,8 @@ public class Exemplo006 {
         int numero2 = 130;
         System.out.println(numero1 == numero2); // true
 
-        Integer numero1 = 130;
-        Integer numero2 = 130;
+        Integer num1 = 130;
+        Integer num2 = 130;
 
         System.out.println(numero1 == numero2); // false
 
@@ -15,6 +15,6 @@ public class Exemplo006 {
         // Qual a solução ?
         // Quando queremos comparar objetos, usamos o método equals
 
-        System.out.println(numero1.equals(numero2));
+        System.out.println(num1.equals(num2));
     }
 }
