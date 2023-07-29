@@ -20,8 +20,7 @@ public class ContaTerminal {
         String sobrnome = entradaUsuario.next();
 
         String cliente = nome + " " + sobrnome;
-
-            
+          
         System.out.print("Informe o valor de seu depósito inicial: ");
         double saldo = entradaUsuario.nextDouble();
 
